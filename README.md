@@ -8,7 +8,7 @@ The dashboard empowers property managers to identify seasonal demand spikes, ana
 ---
 
 ### **📊 Live Dashboard**
-- < a href="https://public.tableau.com/views/StayCatinDashboardStoryBoard/StayCatinDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard Link!</a>
+<a href="https://public.tableau.com/views/StayCatinDashboardStoryBoard/StayCatinDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard Link!</a>
 
 ---
 
