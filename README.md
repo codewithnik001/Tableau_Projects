@@ -54,4 +54,9 @@ The dashboard empowers property managers to identify seasonal demand spikes, ana
 ### **🚀 How to Use This Repository**
 1.  **Download:** Download the `.twbx` file (Tableau Packaged Workbook).
 2.  **Open:** Open the file in **Tableau Desktop** or the free **Tableau Reader**.
-3.  **Interact:** Use the "Story"
+3.  **Interact:** Use the "Story" tabs at the top to walk through the narrative from High-Level KPIs to Granular Location Analysis.
+
+---
+
+* **Author:** Nikhil Goswami
+* *Connect with me on LinkedIn!* : [Click Here](https://www.linkedin.com/in/nikhil-goswami-5938431aa/)
